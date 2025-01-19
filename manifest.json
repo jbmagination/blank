@@ -1,0 +1,10 @@
+{
+  "name": "&lrm;",
+  "icons": [
+    {
+      "src": "icons/blank.png",
+      "type": "image/png",
+      "sizes": "1x1"
+    }
+  ]
+}
